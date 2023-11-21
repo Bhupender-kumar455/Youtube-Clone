@@ -1,5 +1,5 @@
 # React + Vite
-Live link of this : https://clone-f7aab.web.app/
+Live link of this : https://startling-frangipane-03fa89.netlify.app/
 
 Currently, two official plugins are available:
 
